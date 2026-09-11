@@ -147,10 +147,10 @@
   const typedTarget = select('#typed-text');
   if (typedTarget) {
     const phrases = [
-      'PHP (Core & CodeIgniter)',
-      'Backend Architecture & APIs',
+      'PHP (CodeIgniter & Laravel)',
+      'RESTful APIs & Backend Architecture',
       'MySQL Database Optimization',
-      'Python & Django Development',
+      'AJAX & Real-Time Web Apps',
       'Full-Stack Web Engineering'
     ];
     let phraseIndex = 0;
